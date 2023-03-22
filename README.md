@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on all projects that can give me some experience
 - 📫 You can reach me via telegram - [@meidus](https://t.me/meidus)
 - Also sometimes i solve [leetcode](https://leetcode.com/Lainaaa/)
-<img src="https://leetcard.jacoblin.cool/Lainaaa?theme=unicorn&font=Paprika&ext=activity">
+<img src="https://leetcode.card.workers.dev/Lainaaa?theme=default&font=baloo&extension=null">
 
 
 <!---
