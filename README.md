@@ -2,10 +2,7 @@
 - 🍏 I'm iOS developer
 - 👀 I’m interested in self.development
 - 💞️ I’m ready to collaborate if you really excited about your project
-- Maybe I've started writing articles after all - [medium](https://medium.com/@meidus)
 - 📫 You can reach me via telegram - [@meidus](https://t.me/meidus) <a href="https://t.me/meidus"><img alt="QT" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a>
-- Also sometimes i solve [leetcode](https://leetcode.com/Lainaaa/)
-<img src="https://leetcode.card.workers.dev/Lainaaa?theme=default&font=baloo&extension=activity">
 
 <!---
 Lainaaa/Lainaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
